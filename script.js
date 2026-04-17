@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const url = windows.location.href
+const url = this.location.href
 let length = url.length
 
 alert(`The length of the URL is: ${length}`)
